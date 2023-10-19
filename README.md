@@ -4,10 +4,8 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/william-pl%C3%A1cido-593a8a283)
-
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamcouto)
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcouto&show_icons=true&theme=merko)
 
 ### 🛠️ Tecnologias que estudo atualmente
 <div style = "display: inline-block" > <br>
