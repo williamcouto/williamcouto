@@ -1,4 +1,4 @@
-### Olá, Eu sou William!
+### Olá, Eu sou William.
 
 🎙️ No momento estou me dedicando ao estudo do Desenvolvimento Web, onde estou criando pequenos projetos que me permitem aplicar os conceitos e técnicas que venho aprendendo a cada dia e projeto o meu foco a programação frontend.
 
@@ -17,5 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamcouto&layout=compact)
 
 
-🤝🏻**Sinta-se à vontade para explorar meus projetos, deixar feedback ou entrar em contato. 
-Estou ansioso para fazer parte dessa incrível jornada de desenvolvimento web!**
+🤝🏻**Sinta-se à vontade para explorar meus projetos, deixar feedback ou entrar em contato!**
