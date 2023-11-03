@@ -1,6 +1,6 @@
 ### Olá, Eu sou William.
 
-🎙️ No momento estou me dedicando ao estudo do Desenvolvimento Web, onde estou criando pequenos projetos que me permitem aplicar os conceitos e técnicas que venho aprendendo a cada dia e projeto o meu foco a programação frontend.
+🎙️ No momento estou me dedicando ao estudo do Desenvolvimento web, onde estou criando pequenos projetos que me permitem aplicar os conceitos e técnicas que venho aprendendo a cada dia e projeto o meu foco a programação frontend.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/william-pl%C3%A1cido-593a8a283)
