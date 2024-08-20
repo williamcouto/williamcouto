@@ -1,19 +1,41 @@
-### Olá, Eu sou William.
-No momento estou me dedicando ao estudo do Desenvolvimento web, onde estou criando pequenos projetos que me permitem aplicar os conceitos e técnicas que venho aprendendo a cada dia.
+<h1 align="center">Olá, Eu sou William.</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/william-pl%C3%A1cido-593a8a283)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamcouto)
+###
 
+<p align="left">Atualmente, estou me dedicando ao Desenvolvimento web e UX/UI design, onde estou criando projetos que me permitem aplicar os conceitos e técnicas que venho aprendendo a cada dia. Meu objetivo é desenvolver projetos que tratem de problemas cotidianos de forma criativa e eficiente.</p>
 
-### 🛠️ Tecnologias que estudo atualmente
-<div style = "display: inline-block" > <br>
-    <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-    <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-    <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
-    <img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
+###
+
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamcouto&layout=compact)
+###
+<br clear="both">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamcouto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamcouto&locale=en&hide_title=false&layout=compact&card_width=320&theme=merko&hide_border=false&order=2" height="149" alt="languages graph"  />
+</div>
 
+###
 
-🤝🏻**Sinta-se à vontade para explorar meus projetos, deixar feedback ou entrar em contato!**
+<h3 align="left">Contato</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+</div>
+
+###
