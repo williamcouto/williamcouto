@@ -33,9 +33,3 @@
 <h3 align="left">Contato</h3>
 
 ###
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"/><a href="www.linkedin.com/in/williamplácido"></a>
-</div>
-
-###
