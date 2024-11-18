@@ -1,6 +1,5 @@
-<h1 align="center">Olá, Eu sou William.</h1>
-
-###
+<h1 align="center">Hi, I'm William.</h1>
+<h3 align="center">I'm a web developer and I'm always looking to learn something new!</h3>
 
 <h4 align="left">Skills</h4>
 
@@ -18,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
